@@ -9,6 +9,8 @@ M. Rinaldi, M. Mrovec, A. Bochkarev, Y. Lysogorskiy and R. Drautz, Non-collinear
 
 R. Drautz, Atomic cluster expansion of scalar, vectorial, and tensorial properties including magnetism and charge transfer, Physical Review B 102 (2), 024104 (2020)
 
+Training dataset available at: https://zenodo.org/records/15363836
+
 ### Installation
 
 1. cp `pair_ace.cpp` and `pair_ace.h` in your `LAMMPS/src/SPIN` directory
